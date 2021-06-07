@@ -1,0 +1,14 @@
+com/rvjapp/MainActivity.java
+ com.rvjapp.MainActivity
+com/rvjapp/BuildConfig.java
+ com.rvjapp.BuildConfig
+com/rvjapp/MainApplication.java
+ com.rvjapp.MainApplication
+ com.rvjapp.MainApplication$1
+com/rvjapp/ReactNativeFlipper.java
+ com.rvjapp.ReactNativeFlipper
+ com.rvjapp.ReactNativeFlipper$1
+ com.rvjapp.ReactNativeFlipper$2
+ com.rvjapp.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
